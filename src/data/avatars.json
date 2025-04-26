@@ -1,0 +1,22 @@
+{
+  "avatars": [
+    {
+      "id": 1,
+      "name": "Emma Watson",
+      "image": "https://randomuser.me/api/portraits/women/44.jpg",
+      "description": "Personal writing assistant"
+    },
+    {
+      "id": 2,
+      "name": "John Davis",
+      "image": "https://randomuser.me/api/portraits/men/32.jpg",
+      "description": "Code debugging expert"
+    },
+    {
+      "id": 3,
+      "name": "Sarah Miller",
+      "image": "https://randomuser.me/api/portraits/women/65.jpg",
+      "description": "Creative design assistant"
+    }
+  ]
+}
